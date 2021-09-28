@@ -114,7 +114,7 @@ class _ConfiguracoesState extends State<Configuracoes> {
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                   ),
-                  child: Text('Salvar Configurações',
+                  child: Text('Salvar',
                       style: TextStyle(
                           fontSize: 25,
                           color: Colors.black,
